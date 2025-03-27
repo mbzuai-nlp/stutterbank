@@ -1,15 +1,18 @@
 main:
   - title: "About"
     url: /about/
+
   - title: "Team"
     url: /team/
+
   - title: Participate
     subnav: participate
+
   - title: "Tags"
     url: /tags/
 
 participate:
-  - title: Participate
+  - title: "Participate"
     children:
       - title: "People Who Stutter"
         url: /participate/pws/
