@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Team"
+    url: /team/
+  - title: "Participate"
+    subnav: contact
+  - title: "Tags"
+    url: /tags/
