@@ -1,4 +1,5 @@
 ---
+title: "People Who Stutter"
 permalink: /participate/pws/
 layout: single
 sidebar: 
