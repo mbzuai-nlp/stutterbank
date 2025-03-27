@@ -5,6 +5,7 @@ sidebar:
     nav: "participate"
 ---
 
+## Who Can Join?
 
 ✔️ Adults diagnosed with developmental stuttering.
 

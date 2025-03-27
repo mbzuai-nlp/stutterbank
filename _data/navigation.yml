@@ -7,3 +7,11 @@ main:
     subnav: participate
   - title: "Tags"
     url: /tags/
+
+participate:
+  - title: "Participate"
+    children:
+      - title: "People Who Stutter"
+        url: /participate/pws/
+      - title: "Ethics and Data Privacy"
+        url: /participate/dataprivacy/
