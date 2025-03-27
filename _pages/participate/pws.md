@@ -1,8 +1,8 @@
 ---
-# title: "Research Team"
-permalink: /participate/
+permalink: /participate/pws/
 layout: single
-author_profile: false
+sidebar: 
+    nav: "participate"
 ---
 
 

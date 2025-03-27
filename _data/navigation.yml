@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Team"
     url: /team/
-  - title: "Participate"
-    url: /participate/
+  - title: Participate
+    subnav: participate
   - title: "Tags"
     url: /tags/
