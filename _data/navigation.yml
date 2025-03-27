@@ -9,7 +9,7 @@ main:
     url: /tags/
 
 participate:
-  - title: "Participate"
+  - title: Participate
     children:
       - title: "People Who Stutter"
         url: /participate/pws/
