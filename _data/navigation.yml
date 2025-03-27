@@ -4,6 +4,6 @@ main:
   - title: "Team"
     url: /team/
   - title: "Participate"
-    subnav: contact
+    url: /participate/
   - title: "Tags"
     url: /tags/
