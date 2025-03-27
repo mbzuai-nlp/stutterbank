@@ -12,4 +12,4 @@ sidebar:
 - ✔️ Compliance: UAE Personal Data Protection Law (Federal Decree Law No. 45 of 2021)
 - ✔️ Right to Withdraw: Participants can request data deletion anytime.
 📜 Institutional Approval: Approved by MBZUAI Ethics Committee.
-📧 Questions? [Contact:](mailoto:hawau.toyin@mbzuai.ac.ae)
+📧 Questions? [Contact us](mailoto:hawau.toyin@mbzuai.ac.ae)
