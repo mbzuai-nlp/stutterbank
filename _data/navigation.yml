@@ -9,7 +9,11 @@ main:
     subnav: participate
   
   - title: Committee
-    subnav: committees
+    sublinks:
+    - title: "Organizing Committee"
+      url: /committees/organization/
+    - title: "Senior Program Committee"
+      url: /committees/program/
 
   - title: "Tags"
     url: /tags/
@@ -22,10 +26,10 @@ participate:
       - title: "Ethics and Data Privacy"
         url: /participate/dataprivacy/
 
-committees:
-  - title: Committees
-    children:
-      - title: "Organizing Committee"
-        url: /committees/organization/
-      - title: "Senior Program Committee"
-        url: /committees/program/
+# committees:
+#   - title: Committees
+#     children:
+#       - title: "Organizing Committee"
+#         url: /committees/organization/
+#       - title: "Senior Program Committee"
+#         url: /committees/program/
