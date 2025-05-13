@@ -5,8 +5,6 @@ permalink: /
 header:
   overlay_image: "/assets/images/banner1.jpeg"
   caption: 'Photo by DALL-E from OpenAI, generated 27 - 03 - 2025'
-# excerpt: "Abu Dhabi, UAE"
-# secondary_excerpt: "January 19 -- 24, 2025<br>"
 author_profile: false
 ---
 
