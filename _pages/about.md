@@ -1,7 +1,13 @@
 ---
 permalink: /about/
-title: "Research Goals & Methodology"
+layout: single
+author_profile: false
+# title: "Research Goals & Methodology"
 ---
+
+<h2> Our Approach </h2>
+
+We collect speech samples from volunteers who stutter, ensuring data privacy and ethical compliance. Each sample is analyzed and annotated by certified speech-language pathologists. Our methods adhere to international research ethics standards with approvals obtained from the participants.
 
 ### Key Objectives
 - Develop an AI-based system to automatically detect and assess stuttering severity.

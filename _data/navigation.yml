@@ -8,8 +8,8 @@ main:
   - title: Participate
     subnav: participate
 
-  - title: "Tags"
-    url: /tags/
+  # - title: "Tags"
+  #   url: /tags/
 
 participate:
   - title: "Participate"

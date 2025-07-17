@@ -22,7 +22,7 @@ sidebar:
 
 Incentives: Contribution to AI-driven speech therapy research
 
-🔗 [Sign Up Now](Add a form link here!)
+🔗 [Sign Up Now](https://forms.office.com/r/n4tvC9UY4H)
 
 
-## Ethics and Data Privacy
+<!-- ## Ethics and Data Privacy -->
