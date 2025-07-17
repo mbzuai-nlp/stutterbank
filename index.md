@@ -15,18 +15,11 @@ This project aims to develop a comprehensive, open-access dataset of stuttered s
 
 <!-- ••Want to stay updated? [Subscribe for updates]•• -->
 
-## About the Project:
+<!-- ## About the Project:
 **The Problem:** The lack of precise, real-time tools for assessing stuttering severity.
 
 
-**Our Approach:** Developing a multi-modal AI-driven assessment tool combining speech and visual data.
-
-**Impact:** 
-
-- Provides real-time stuttering severity analysis.
-- Enhances speech therapy treatment precision.
-- Contributes to global research on communication disorders.
-- Facilitates clinical trials for pharmaceutical research.
+**Our Approach:** Developing a multi-modal AI-driven assessment tool combining speech and visual data. -->
 
 
 ### 📊 Quick Stats & Key Facts
