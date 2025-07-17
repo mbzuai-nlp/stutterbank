@@ -14,6 +14,12 @@ We collect speech samples from volunteers who stutter, ensuring data privacy and
 - ​Build and expand an annotated database of speech samples from people who stutter.
 - Validate AI models through clinical collaborations.
 
+**Impact:** 
+
+- Provides real-time stuttering severity analysis.
+- Enhances speech therapy treatment precision.
+- Contributes to global research on communication disorders.
+- Facilitates clinical trials for pharmaceutical research.
 
 ### Methodology
 ✔️ Data Collection:
@@ -27,9 +33,3 @@ We collect speech samples from volunteers who stutter, ensuring data privacy and
 ✔️ Validation & Impact Assessment:
 - Comparing AI-generated assessments with human expert ratings.
 
-**Impact:** 
-
-- Provides real-time stuttering severity analysis.
-- Enhances speech therapy treatment precision.
-- Contributes to global research on communication disorders.
-- Facilitates clinical trials for pharmaceutical research.
