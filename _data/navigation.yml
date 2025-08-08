@@ -5,6 +5,9 @@ main:
   - title: "Team"
     url: /team/
 
+  - title: "Publications"
+    url: /publications/
+
   - title: Participate
     subnav: participate
 

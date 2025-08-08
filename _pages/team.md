@@ -9,10 +9,10 @@ institutions:
     image_path: /assets/images/logo/MBZUAI.jpg
     alt: MBZUAI
     title: MBZUAI
-#   - url: https://mbzuai.ac.ae/
-#     image_path: /assets/images/logo/MBZUAI.jpg
-#     alt: Toloka
-#     title: Toloka
+  - url: https://speechcare.center/
+    image_path: /assets/images/logo/speechcare.jpg
+    alt: SpeechCare
+    title: SpeechCare
 ---
 
 <style>
@@ -66,7 +66,7 @@ We are deeply grateful to every therapist who is helping us build a better futur
 
 {% include bio-box
    name="Gonçalo Leal"
-   picture="/assets/images/bio-photo.jpg"
+   picture="/assets/images/goncalo-photo.jpg"
    site=""
    institution="Speech Care, UAE"
    email = ""
@@ -74,9 +74,9 @@ We are deeply grateful to every therapist who is helping us build a better futur
 
 {% include bio-box
    name="Ana Rita Valente"
-   picture="/assets/images/bio-photo.jpg"
+   picture="/assets/images/rita-photo.jpg"
    site=""
-   institution="Speech Care, X"
+   institution="Speech Care, UAE"
    email = ""
 %}
 
