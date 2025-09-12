@@ -7,7 +7,7 @@ title: "Research Goals & Methodology"
 
 <div class="content-card">
   <h2>Our Approach</h2>
-  <p>We collect speech samples from volunteers who stutter, ensuring data privacy and ethical compliance. Each sample is analyzed and annotated by certified speech-language pathologists. Our methods adhere to international research ethics standards with approvals obtained from the participants.</p>
+  We collect speech samples from volunteers who stutter, ensuring data privacy and ethical compliance. Each sample is analyzed and annotated by certified speech-language pathologists. Our methods adhere to international research ethics standards with approvals obtained from the participants.
 </div>
 
 <div class="content-card">

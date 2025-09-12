@@ -5,10 +5,10 @@ layout: single
 author_profile: false
 ---
 
-<div class="content-card">
+<!-- <div class="content-card">
   <h2>Our Publications</h2>
   <p><em>Made possible through contributions... <a href="https://forms.office.com/r/n4tvC9UY4H">contribute</a></em></p>
-</div>
+</div> -->
 
 <div class="publication-item">
   <div class="publication-title">Clinical Annotations for Automatic Stuttering Severity Assessment</div>
