@@ -52,3 +52,207 @@ Please ensure Javascript is enabled for purposes of
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<!-- Dynamic Banner Script -->
+<script src="{{ '/assets/js/dynamic-banner.js' | relative_url }}" defer></script>
+
+<!-- Custom Stats Section CSS -->
+<style>
+/* Stats section enhancement */
+.page__content .stats-section,
+.stats-section {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  align-items: stretch !important;
+  gap: 2rem !important;
+  margin: 3rem 0 !important;
+  flex-wrap: wrap !important;
+  width: 100% !important;
+  list-style: none !important;
+  padding: 0 !important;
+}
+
+.page__content .stats-section *,
+.stats-section * {
+  box-sizing: border-box !important;
+}
+
+.page__content .stat-card,
+.stat-card {
+  background: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(10px) !important;
+  border-radius: 20px !important;
+  padding: 2rem 1.5rem !important;
+  text-align: center !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1) !important;
+  transition: all 0.3s ease !important;
+  position: relative !important;
+  overflow: hidden !important;
+  flex: 1 !important;
+  min-width: 200px !important;
+  max-width: 300px !important;
+  margin: 0 1rem !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.page__content .stat-card::before,
+.stat-card::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  height: 4px !important;
+  background: linear-gradient(90deg, #667eea, #764ba2, #667eea) !important;
+  background-size: 200% 100% !important;
+  animation: gradientShift 3s ease infinite !important;
+}
+
+.page__content .stat-card::after,
+.stat-card::after {
+  content: '' !important;
+  position: absolute !important;
+  top: -50% !important;
+  left: -50% !important;
+  width: 200% !important;
+  height: 200% !important;
+  background: radial-gradient(circle, rgba(102, 126, 234, 0.03), transparent) !important;
+  animation: rotate 15s linear infinite !important;
+  z-index: 0 !important;
+}
+
+.page__content .stat-card > *,
+.stat-card > * {
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+.page__content .stat-card:hover,
+.stat-card:hover {
+  transform: translateY(-10px) scale(1.02) !important;
+  box-shadow: 0 20px 60px rgba(102, 126, 234, 0.2) !important;
+}
+
+.page__content .stat-icon,
+.stat-icon {
+  font-size: 3rem !important;
+  margin-bottom: 1rem !important;
+  display: block !important;
+  animation: iconFloat 3s ease-in-out infinite !important;
+}
+
+@keyframes iconFloat {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.page__content .stat-card h3,
+.stat-card h3 {
+  color: #2c3e50 !important;
+  font-size: 1.3rem !important;
+  font-weight: 700 !important;
+  margin-bottom: 1rem !important;
+  line-height: 1.3 !important;
+}
+
+.page__content .stat-card .stats-counter,
+.stat-card .stats-counter {
+  font-size: 3rem !important;
+  font-weight: 800 !important;
+  color: #667eea !important;
+  text-shadow: 0 0 20px rgba(102, 126, 234, 0.3) !important;
+  margin-bottom: 0.5rem !important;
+  background: linear-gradient(135deg, #667eea, #764ba2) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  animation: counterPulse 2s ease-in-out infinite !important;
+}
+
+.page__content .stat-card p,
+.stat-card p {
+  color: #666 !important;
+  font-size: 1rem !important;
+  font-weight: 500 !important;
+  margin: 0 !important;
+  line-height: 1.4 !important;
+}
+
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes counterPulse {
+  0%, 100% {
+    transform: scale(1);
+    color: #667eea;
+  }
+  50% {
+    transform: scale(1.1);
+    color: #764ba2;
+  }
+}
+
+/* Responsive design for stats */
+@media (max-width: 1024px) and (min-width: 769px) {
+  .stats-section {
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+  }
+  
+  .stat-card {
+    flex: 0 0 calc(50% - 2rem) !important;
+    margin: 0 1rem 2rem 1rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .stats-section {
+    flex-direction: column !important;
+    gap: 1.5rem !important;
+    align-items: center !important;
+  }
+  
+  .stat-card {
+    min-height: 200px !important;
+    padding: 1.5rem 1rem !important;
+    margin: 0 0.5rem !important;
+    max-width: 100% !important;
+    min-width: 250px !important;
+  }
+  
+  .stat-icon {
+    font-size: 2.5rem !important;
+  }
+  
+  .stat-card .stats-counter {
+    font-size: 2.5rem !important;
+  }
+  
+  .stat-card h3 {
+    font-size: 1.2rem !important;
+  }
+}
+</style>

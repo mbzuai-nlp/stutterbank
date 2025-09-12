@@ -36,49 +36,69 @@ institutions:
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-<h2>MBZUAI Research Team</h2>
+<div class="content-card">
+  <h2>MBZUAI Research Team</h2>
+  <p>Meet the dedicated researchers behind the StutterBank project.</p>
+</div>
 
-{% include bio-box
-   name="Hanan Aldarmaki"
-   picture="/assets/images/Hanan-photo.jpg"
-   site=""
-   institution="Mohamed Bin Zayed University of Artificial Intelligence, UAE"
-   email = "hanan.aldarmaki@mbzuai.ac.ae"
-%}
+<div class="team-member">
+  <img src="/assets/images/Hanan-photo.jpg" alt="Hanan Aldarmaki" class="bio-photo">
+  <div class="bio-info">
+    <h3>Hanan Aldarmaki</h3>
+    <p><strong>Institution:</strong> Mohamed Bin Zayed University of Artificial Intelligence, UAE</p>
+    <p><strong>Email:</strong> <a href="mailto:hanan.aldarmaki@mbzuai.ac.ae">hanan.aldarmaki@mbzuai.ac.ae</a></p>
+  </div>
+</div>
 
-{% include bio-box
-   name="Hawau Olamide Toyin"
-   picture="/assets/images/hawau-Photo.jpg"
-   site=""
-   institution="Mohamed Bin Zayed University of Artificial Intelligence, UAE"
-   email = "hawau.toyin@mbzuai.ac.ae"
-%}
+<div class="team-member">
+  <img src="/assets/images/hawau-Photo.jpg" alt="Hawau Olamide Toyin" class="bio-photo">
+  <div class="bio-info">
+    <h3>Hawau Olamide Toyin</h3>
+    <p><strong>Institution:</strong> Mohamed Bin Zayed University of Artificial Intelligence, UAE</p>
+    <p><strong>Email:</strong> <a href="mailto:hawau.toyin@mbzuai.ac.ae">hawau.toyin@mbzuai.ac.ae</a></p>
+  </div>
+</div>
 
+<div class="content-card">
+  <h2>Speech-Language Pathologists</h2>
+  <p>Behind every voice sample in the StutterBank lies the careful work of dedicated speech-language pathologists. These professionals are essential in ensuring the quality and reliability of the data we collect — from guiding participants through the process, to annotating and validating each sample with clinical precision. We are deeply grateful to every therapist who is helping us build a better future for stuttering assessment through science and collaboration.</p>
+</div>
 
-<h2>Speech-Language Pathologists</h2>
+<div class="content-card">
+  <h3>Meet the Clinicians</h3>
+</div>
 
-Behind every voice sample in the StutterBank lies the careful work of dedicated speech-language pathologists.
-These professionals are essential in ensuring the quality and reliability of the data we collect — from guiding participants through the process, to annotating and validating each sample with clinical precision.
-We are deeply grateful to every therapist who is helping us build a better future for stuttering assessment through science and collaboration.
+<div class="team-member">
+  <img src="/assets/images/goncalo-photo.jpg" alt="Gonçalo Leal" class="bio-photo">
+  <div class="bio-info">
+    <h3>Gonçalo Leal</h3>
+    <p><strong>Institution:</strong> Speech Care, UAE</p>
+  </div>
+</div>
 
-<h4>Meet the Clinicians:</h4>
+<div class="content-card">
+  <h2>Partner Institutions</h2>
+  <div class="institution-logos">
+    <div class="institution-logo">
+      <a href="https://mbzuai.ac.ae/" target="_blank">
+        <img src="/assets/images/logo/MBZUAI.jpg" alt="MBZUAI">
+      </a>
+    </div>
+    <div class="institution-logo">
+      <a href="https://speechcare.center/" target="_blank">
+        <img src="/assets/images/logo/speechcare.jpg" alt="SpeechCare">
+      </a>
+    </div>
+  </div>
+</div>
 
-
-{% include bio-box
-   name="Gonçalo Leal"
-   picture="/assets/images/goncalo-photo.jpg"
-   site=""
-   institution="Speech Care, UAE"
-   email = ""
-%}
-
-{% include bio-box
-   name="Ana Rita Valente"
-   picture="/assets/images/rita-photo.jpg"
-   site=""
-   institution="Speech Care, UAE"
-   email = ""
-%}
+<div class="team-member">
+  <img src="/assets/images/rita-photo.jpg" alt="Ana Rita Valente" class="bio-photo">
+  <div class="bio-info">
+    <h3>Ana Rita Valente</h3>
+    <p><strong>Institution:</strong> Speech Care, UAE</p>
+  </div>
+</div>
 
 
 <h2>🤝 Our Community Champions</h2>

@@ -11,7 +11,9 @@ author_profile: false
 
 <!-- ## Stutter Bank! -->
 
-This project aims to develop a comprehensive, open-access dataset of stuttered speech samples, collected from individuals who stutter. This dataset will serve as the foundation for creating AI-driven tools to assess stuttering severity objectively and in real-time, aiding both clinicians and researchers in the field of speech therapy. By leveraging annotated data from speech-language pathologists, we aim to create a real-time, objective assessment tool for therapists and researchers.
+<div class="content-card">
+  <p>This project aims to develop a comprehensive, open-access dataset of stuttered speech samples, collected from individuals who stutter. This dataset will serve as the foundation for creating AI-driven tools to assess stuttering severity objectively and in real-time, aiding both clinicians and researchers in the field of speech therapy. By leveraging annotated data from speech-language pathologists, we aim to create a real-time, objective assessment tool for therapists and researchers.</p>
+</div>
 
 <!-- ••Want to stay updated? [Subscribe for updates]•• -->
 
@@ -24,18 +26,50 @@ This project aims to develop a comprehensive, open-access dataset of stuttered s
 
 ### 📊 Quick Stats & Key Facts
 
-✔️ 3 Speech-Language Pathologists contributing to the Research
+<div class="stats-section">
+  <div class="stat-card dynamic-content">
+    <div class="stat-icon">👩‍⚕️</div>
+    <h3>Speech-Language Pathologists</h3>
+    <div class="stats-counter">3</div>
+    <p>contributing to the Research</p>
+  </div>
 
-✔️ 2 Educational Establishments Involved
+  <div class="stat-card dynamic-content">
+    <div class="stat-icon">🏫</div>
+    <h3>Educational Establishments</h3>
+    <div class="stats-counter">2</div>
+    <p>Involved in the Project</p>
+  </div>
 
-✔️ X Hours of stuttering speech data collected
+  <div class="stat-card dynamic-content">
+    <div class="stat-icon">⏱️</div>
+    <h3>Data Collection</h3>
+    <div class="stats-counter">500</div>
+    <p>+ Hours of stuttering speech data collected</p>
+  </div>
+</div>
 <!-- - ✔️ X Languages supported -->
 
 
 
-## Call to Action!
-<b>For Researchers:</b> Join our collaborative effort to enhance stuttering assessment tools. Access our dataset, contribute to ongoing studies, and help shape the future of speech therapy. [Sign up here!](https://forms.office.com/r/n4tvC9UY4H)
+<!-- ## Call to Action! -->
 
-
-<b>For Participants:</b> Your voice matters. By contributing your speech samples, you play a crucial role in developing tools that can make a difference in the lives of those who stutter. [Sign up here!](https://forms.office.com/r/n4tvC9UY4H)
+<div class="cta-section">
+  <h2>Join Our Mission</h2>
+  <p>Be part of the future of stuttering assessment and speech therapy research</p>
+  
+  <div class="dynamic-content">
+    <h3>🔬 For Researchers</h3>
+    <p>Join our collaborative effort to enhance stuttering assessment tools. Access our dataset, contribute to ongoing studies, and help shape the future of speech therapy.</p>
+    <a href="https://forms.office.com/r/n4tvC9UY4H" class="btn">Sign up here!</a>
+  </div>
+  
+  <div class="section-divider"></div>
+  
+  <div class="dynamic-content">
+    <h3>🎤 For Participants</h3>
+    <p>Your voice matters. By contributing your speech samples, you play a crucial role in developing tools that can make a difference in the lives of those who stutter.</p>
+    <a href="https://forms.office.com/r/n4tvC9UY4H" class="btn btn-secondary">Sign up here!</a>
+  </div>
+</div>
 
