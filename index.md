@@ -11,9 +11,9 @@ author_profile: false
 
 <!-- ## Stutter Bank! -->
 
-<div class="content-card">
+<!-- <div class="content-card">
   <p>This project aims to develop a comprehensive, open-access dataset of stuttered speech samples, collected from individuals who stutter. This dataset will serve as the foundation for creating AI-driven tools to assess stuttering severity objectively and in real-time, aiding both clinicians and researchers in the field of speech therapy. By leveraging annotated data from speech-language pathologists, we aim to create a real-time, objective assessment tool for therapists and researchers.</p>
-</div>
+</div> -->
 
 <!-- ••Want to stay updated? [Subscribe for updates]•• -->
 
@@ -24,7 +24,7 @@ author_profile: false
 **Our Approach:** Developing a multi-modal AI-driven assessment tool combining speech and visual data. -->
 
 
-### 📊 Quick Stats & Key Facts
+<!-- ### 📊 Quick Stats & Key Facts -->
 
 <div class="stats-section">
   <div class="stat-card dynamic-content">
