@@ -59,10 +59,10 @@ institutions:
   </div>
 </div>
 
-<div class="content-card">
+<!-- <div class="content-card">
   <h2>Speech-Language Pathologists</h2>
   <p>Behind every voice sample in the StutterBank lies the careful work of dedicated speech-language pathologists. These professionals are essential in ensuring the quality and reliability of the data we collect — from guiding participants through the process, to annotating and validating each sample with clinical precision. We are deeply grateful to every therapist who is helping us build a better future for stuttering assessment through science and collaboration.</p>
-</div>
+</div> -->
 
 <div class="content-card">
   <h3>Meet the Clinicians</h3>

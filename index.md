@@ -58,16 +58,17 @@ author_profile: false
   <h2>Join Our Mission</h2>
   <p>Be part of the future of stuttering assessment and speech therapy research</p>
   
-  <div class="dynamic-content">
-    <h3>🔬 For Researchers</h3>
+  <div class="dynamic-content" data-section="researchers">
+
+    <h3>For Researchers</h3>
     <p>Join our collaborative effort to enhance stuttering assessment tools. Access our dataset, contribute to ongoing studies, and help shape the future of speech therapy.</p>
     <a href="https://forms.office.com/r/n4tvC9UY4H" class="btn">Sign up here!</a>
   </div>
   
   <div class="section-divider"></div>
   
-  <div class="dynamic-content">
-    <h3>🎤 For Participants</h3>
+  <div class="dynamic-content" data-section="participants">
+    <h3>For Participants</h3>
     <p>Your voice matters. By contributing your speech samples, you play a crucial role in developing tools that can make a difference in the lives of those who stutter.</p>
     <a href="https://forms.office.com/r/n4tvC9UY4H" class="btn btn-secondary">Sign up here!</a>
   </div>
