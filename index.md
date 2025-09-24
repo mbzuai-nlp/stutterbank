@@ -37,14 +37,14 @@ author_profile: false
   <div class="stat-card dynamic-content">
     <div class="stat-icon">🏫</div>
     <h3>Educational Establishments</h3>
-    <div class="stats-counter">2</div>
+    <div class="stats-counter">1</div>
     <p>Involved in the Project</p>
   </div>
 
   <div class="stat-card dynamic-content">
     <div class="stat-icon">⏱️</div>
     <h3>Data Collection</h3>
-    <div class="stats-counter">500</div>
+    <div class="stats-counter">10</div>
     <p>+ Hours of stuttering speech data collected</p>
   </div>
 </div>

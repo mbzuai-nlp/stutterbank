@@ -28,11 +28,11 @@ author_profile: false
   </div>
   
   <div class="bibtex-box">
-@inproceedings{valente2025clinical,
-  title={Clinical Annotations for Automatic Stuttering Severity Assessment},
-  author={Valente, Ana Rita and Marew, Rufael and Toyin, Hawau Olamide and Al-Ali, Hamdan and Bohnen, Anelise and Becerra, Inma and Soares, Elsa Marta and Leal, Goncalo and Aldarmaki, Hanan},
-  booktitle={Proc. Interspeech 2025},
-  year={2025}
-}
+  @inproceedings{valente2025clinical,
+    title={Clinical Annotations for Automatic Stuttering Severity Assessment},
+    author={Valente, Ana Rita and Marew, Rufael and Toyin, Hawau Olamide and Al-Ali, Hamdan and Bohnen, Anelise and Becerra, Inma and Soares, Elsa Marta and Leal, Goncalo and Aldarmaki, Hanan},
+    booktitle={Proc. Interspeech 2025},
+    year={2025}
+  }
   </div>
 </div>

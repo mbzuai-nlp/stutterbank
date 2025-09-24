@@ -6,17 +6,27 @@ sidebar:
     nav: "participate"
 ---
 
-## Who Can Join?
+<div class="content-card">
+  <h2>Who Can Join?</h2>
+Adults diagnosed with developmental stuttering and must be able to self-report their stuttering history.
+</div>
 
-✔️ Adults diagnosed with developmental stuttering.
-
-✔️ Must be able to self-report their stuttering history.
+<!-- ## Who Can Join? -->
 
 
-### What Will You Do?
+<div class="content-card">
+  <h4>What Will You Do?</h4>
+  <ul> 
+  <li> Read aloud predefined texts. </li>
+  <li> Speak spontaneously on a chosen thematic topic.</li>
+  <li> Video & audio of sessions recorded for research.</li>
+  </ul>
+</div>
+
+<!-- ### What Will You Do?
 - Read aloud predefined texts.
 - Speak spontaneously on a chosen thematic topic.
-- Sessions video & audio recorded for research.
+- Sessions video & audio recorded for research. -->
 
 **Time Commitment: ~30 minutes per session**
 
