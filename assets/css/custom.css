@@ -307,6 +307,7 @@
 }
 
 
+
 /* ==========================================================================
    CALL TO ACTION SECTIONS
    ========================================================================== */
@@ -509,6 +510,14 @@
 
 .btn:active {
   transform: translateY(-2px) scale(1.02);
+}
+
+.btn-signup {
+  color: rgba(255, 255, 255, 0.95) !important;
+}
+
+.btn-signup:hover {
+  color: #ffffff !important;
 }
 
 .btn-secondary {
