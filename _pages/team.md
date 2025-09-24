@@ -54,6 +54,19 @@ institutions:
           </p>
         </div>
       </div>
+
+      <div class="team-member-card">
+        <div class="team-member-image">
+          <img src="/assets/images/rufael.JPG" alt="Rufael Fekadu Marew" class="bio-photo">
+        </div>
+        <div class="team-member-info">
+          <h3 class="team-member-name">Rufael Fekadu Marew</h3>
+          <p class="team-member-institution">Mohamed Bin Zayed University of Artificial Intelligence, UAE</p>
+          <p class="team-member-email">
+            <a href="mailto:rufael.marew@mbzuai.ac.ae">rufael.marew@mbzuai.ac.ae</a>
+          </p>
+        </div>
+      </div>
     </div>
   </div>
 
