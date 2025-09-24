@@ -22,7 +22,7 @@ author_profile: false
     <a href="https://github.com/mbzuai-nlp/CASA">
       <i class="fab fa-github"></i> Code
     </a>
-    <a href="#" class="bibtex-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block') ? 'none' : 'block'; return false;">
+    <a href="https://arxiv.org/abs/2506.00644" class="bibtex-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block') ? 'none' : 'block'; return false;">
       <i class="fas fa-quote-right"></i> BibTeX
     </a>
   </div>
