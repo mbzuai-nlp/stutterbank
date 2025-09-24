@@ -1,10 +1,8 @@
 ---
 # title: "Research Team"
-permalink: /about/team/
+permalink: /team/
 layout: single
 author_profile: false
-sidebar: 
-    nav: "about"
 
 institutions:
   - url: https://mbzuai.ac.ae/
@@ -27,7 +25,7 @@ institutions:
   <!-- Researchers Section -->
   <div class="team-section">
     <div class="team-section-header">
-      <h2 class="team-section-title">AI Team</h2>
+      <h2 class="team-section-title">🔬 Researchers</h2>
       <p class="team-section-description">Meet the dedicated researchers behind the StutterBank project.</p>
     </div>
     <div class="team-grid">

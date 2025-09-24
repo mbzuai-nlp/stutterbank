@@ -1,10 +1,8 @@
 ---
-# title: "Research Goals & Methodology"
-permalink: /about/about/
+permalink: /about/
 layout: single
 author_profile: false
-sidebar: 
-    nav: "about"
+title: "Research Goals & Methodology"
 ---
 
 <div class="content-card">
@@ -35,7 +33,7 @@ sidebar:
   <h3>Methodology</h3>
   
   <div class="methodology-section">
-    <h4>Data Collection</h4>
+    <h4>📊 Data Collection</h4>
     <ul>
       <li>Audiovisual samples of Arabic & English speech from stuttering individuals.</li>
       <li>Manual annotation by speech-language pathologists.</li>
@@ -43,7 +41,7 @@ sidebar:
   </div>
   
   <div class="methodology-section">
-    <h4>Model Development</h4>
+    <h4>🤖 Model Development</h4>
     <ul>
       <li>Initial AI models trained on annotated data.</li>
       <li>Continuous improvement through machine learning iterations.</li>
@@ -51,7 +49,7 @@ sidebar:
   </div>
   
   <div class="methodology-section">
-    <h4>Validation & Impact Assessment</h4>
+    <h4>✅ Validation & Impact Assessment</h4>
     <ul>
       <li>Comparing AI-generated assessments with human expert ratings.</li>
     </ul>

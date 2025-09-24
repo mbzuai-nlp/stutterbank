@@ -1,13 +1,12 @@
 main:
   - title: "About"
-    subnav: about
-    # url: /about/
+    url: /about/
 
-  # - title: "Team"
-  #   url: /team/
+  - title: "Team"
+    url: /team/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: Participate
     subnav: participate
@@ -22,13 +21,3 @@ participate:
         url: /participate/pws/
       - title: "Ethics and Data Privacy"
         url: /participate/dataprivacy/
-
-about:
-  - title: "About"
-    children:
-      - title: "Research Goals & Methodology"
-        url: /about/about/
-      - title: "Publications"
-        url: /about/publications/
-      - title: "Research Team"
-        url: /about/team/
