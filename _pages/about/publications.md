@@ -1,8 +1,10 @@
 ---
-title: "Publications"
-permalink: /publications/
+# title: "Publications"
+permalink: /about/publications/
 layout: single
 author_profile: false
+sidebar: 
+    nav: "about"
 ---
 
 <!-- <div class="content-card">
