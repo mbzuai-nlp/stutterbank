@@ -31,7 +31,7 @@ institutions:
     <div class="team-grid">
       <div class="team-member-card">
         <div class="team-member-image">
-          <img src="assets/images/Hanan-photo.jpg" alt="Hanan Aldarmaki" class="bio-photo">
+          <img src="/stutterbank/assets/images/Hanan-photo.jpg" alt="Hanan Aldarmaki" class="bio-photo">
         </div>
         <div class="team-member-info">
           <h3 class="team-member-name">Hanan Aldarmaki</h3>
@@ -44,7 +44,7 @@ institutions:
       
       <div class="team-member-card">
         <div class="team-member-image">
-          <img src="/assets/images/hawau-photo.JPG" alt="Hawau Olamide Toyin" class="bio-photo">
+          <img src="/stutterbank/assets/images/hawau-photo.JPG" alt="Hawau Olamide Toyin" class="bio-photo">
         </div>
         <div class="team-member-info">
           <h3 class="team-member-name">Hawau Olamide Toyin</h3>
