@@ -57,7 +57,7 @@ institutions:
 
       <div class="team-member-card">
         <div class="team-member-image">
-          <img src="/assets/images/rufael.JPG" alt="Rufael Fekadu Marew" class="bio-photo">
+          <img src="/stutterbank/assets/images/rufael.JPG" alt="Rufael Fekadu Marew" class="bio-photo">
         </div>
         <div class="team-member-info">
           <h3 class="team-member-name">Rufael Fekadu Marew</h3>
@@ -79,7 +79,7 @@ institutions:
     <div class="team-grid">
       <div class="team-member-card">
         <div class="team-member-image">
-          <img src="/assets/images/goncalo-photo.jpg" alt="Gonçalo Leal" class="bio-photo">
+          <img src="/stutterbank/assets/images/goncalo-photo.jpg" alt="Gonçalo Leal" class="bio-photo">
         </div>
         <div class="team-member-info">
           <h3 class="team-member-name">Gonçalo Leal</h3>
@@ -90,7 +90,7 @@ institutions:
       
       <div class="team-member-card">
         <div class="team-member-image">
-          <img src="/assets/images/rita-photo.jpg" alt="Ana Rita Valente" class="bio-photo">
+          <img src="/stutterbank/assets/images/rita-photo.jpg" alt="Ana Rita Valente" class="bio-photo">
         </div>
         <div class="team-member-info">
           <h3 class="team-member-name">Ana Rita Valente</h3>
@@ -110,13 +110,13 @@ institutions:
     <div class="institution-logos">
       <div class="institution-logo">
         <a href="https://mbzuai.ac.ae/" target="_blank" rel="noopener noreferrer">
-          <img src="/assets/images/logo/MBZUAI.jpg" alt="MBZUAI">
+          <img src="/stutterbank/assets/images/logo/MBZUAI.jpg" alt="MBZUAI">
           <span class="institution-name">MBZUAI</span>
         </a>
       </div>
       <div class="institution-logo">
         <a href="https://speechcare.center/" target="_blank" rel="noopener noreferrer">
-          <img src="/assets/images/logo/speechcare.jpg" alt="SpeechCare">
+          <img src="/stutterbank/assets/images/logo/speechcare.jpg" alt="SpeechCare">
           <span class="institution-name">SpeechCare</span>
         </a>
       </div>
