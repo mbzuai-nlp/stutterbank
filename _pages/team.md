@@ -31,7 +31,7 @@ institutions:
     <div class="team-grid">
       <div class="team-member-card">
         <div class="team-member-image">
-          <img src="/assets/images/Hanan-photo.jpg" alt="Hanan Aldarmaki" class="bio-photo">
+          <img src="assets/images/Hanan-photo.jpg" alt="Hanan Aldarmaki" class="bio-photo">
         </div>
         <div class="team-member-info">
           <h3 class="team-member-name">Hanan Aldarmaki</h3>
