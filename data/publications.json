@@ -1,0 +1,12 @@
+[
+  {
+    "id": "rita-2025-interspeech",
+    "title": "Clinical Annotations for Automatic Stuttering Detection",
+    "authors": ["Ana Rita Valente", "Rufael Marew", "Hawau Olamide Toyin", "Hamdan Al-Ali", "Anelise Bohnen", "Inma Becerra", "Elsa Marta Soares", "Goncalo Leal", "Hanan Aldarmaki"],
+    "year": 2025,
+    "venue": "Interspeech 2025",
+    "doi": "10.1234/jfd.2024.001",
+    "topics": ["Stuttering", "Automatic Speech Recognition"]
+  }
+]
+

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dr. Hanan Aldermaki",
+    "role": "Lead Researcher",
+    "affiliation": "MBZUAI",
+    "photo": "/images/team/hanan.jpg"
+  },
+  {
+    "name": "Hawau Toyin",
+    "role": "Researcher",
+    "affiliation": "MBZUAI",
+    "photo": "/images/team/hawau.jpg"
+  },
+  {
+    "name": "Gonçalo Leal",
+    "role": "Speech-Language Pathologist",
+    "affiliation": "SpeechCare Center",
+    "photo": "/images/team/goncalo.jpg"
+  },
+  {
+    "name": "Ana Rita Valente",
+    "role": "Speech-Language Pathologist",
+    "affiliation": "SpeechCare Center",
+    "photo": "/images/team/rita.jpg"
+  },
+  {
+    "name": "Rufael Fekadu Marew",
+    "role": "Researcher",
+    "affiliation": "MBZUAI",
+    "photo": "/images/team/rufael.jpg"
+  }
+]
